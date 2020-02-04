@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 ,无线新闻
+http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_inews.smil/playlist.m3u8?hdnea=st=1580785703~exp=1580872103~acl=/newslive/smil:mobilehd_inews.smil/*~hmac=226ec3d3e6cfd9b533537bdc8b6597434d99218828022a70d856b6f681613970
+#EXTINF:-1 ,无线财经
+http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_finance.smil/playlist.m3u8?hdnea=st=1580785744~exp=1580872144~acl=/newslive/smil:mobilehd_finance.smil/*~hmac=60116a94ba65db5310b0245b071130f723b72721021296317095fd5e8d8ac51c
+#EXTINF:-1 ,武汉新闻综合
+http://stream.appwuhan.com/1tzb/sd/live.m3u8
+#EXTINF:-1 ,武汉雷神山医院近景
+http://119.167.216.116/mobilelive-play.ysp.cctv.cn/2001893201_fhd.m3u8
+#EXTINF:-1 ,武汉雷神山医院全景
+http://119.167.216.116/mobilelive-play.ysp.cctv.cn/2001893301_fhd.m3u8
+#EXTINF:-1 ,武汉火神山-雷神山医院现场
+http://119.167.216.116/mobilelive-play.ysp.cctv.cn/2001886801_fhd.m3u8
